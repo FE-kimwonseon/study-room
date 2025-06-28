@@ -1,2 +1,16 @@
-# study-room
-복습을 위한 공부방
+<div align=center>
+  <br>
+<h1>study-room</h1>
+  <br>
+
+
+
+
+
+## 공부 리스트
+
+| **WEB** | **HTML** | **CSS** | **JavaScript** |
+| --- | --- | --- | --- |
+
+
+</div>
