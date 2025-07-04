@@ -1,6 +1,6 @@
 # JavaScript란?
 
-![Alt text](../images/JavaScript_image.svg)
+![Alt text](../images/JavaScript_image.svg){: width="60%" height="60%"}
 
 ## 정의
 
