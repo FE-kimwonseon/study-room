@@ -5,8 +5,8 @@
 
 ## 공부 리스트
 
-| **WEB** | **HTML** | **CSS** | [**JavaScript**](#javascript) | [**React**](#react) | **Git** |
-| ------- | -------- | ------- | ----------------------------- | ------------------- | ------- |
+| [**WEB**](#web) | [**HTML**](#html) | [**CSS**](#css) | [**JavaScript**](#javascript) | [**React**](#react) | [TypeScript](#typescript) | [Next.js](#nextjs) | [**Git**](#git) |
+| --------------- | ----------------- | --------------- | ----------------------------- | ------------------- | ------------------------- | ------------------ | --------------- |
 
 </div>
 
@@ -80,6 +80,16 @@
 - [useMemo와 useCallback](./React/useMemo와%20usecallback.md)
 
 ### [맨 위로 ▲](#top)
+
+<br />
+<br />
+
+# TypeScript
+
+<br />
+<br />
+
+# Next.js
 
 <br />
 <br />
