@@ -79,6 +79,10 @@
 
 - [useMemo와 useCallback](./React/useMemo와%20usecallback.md)
 
+- [useReduceer](./React/useReducer.md)
+
+- [useRef](./React/useRef.md)
+
 ### [맨 위로 ▲](#top)
 
 <br />
