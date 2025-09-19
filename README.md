@@ -85,6 +85,8 @@
 
 - [React*memo*성능최적화](./React/React_memo_성능_최적화.md)
 
+- [Error Boundary](/React/Error_Boundaries.md)
+
 ### [맨 위로 ▲](#top)
 
 <br />
